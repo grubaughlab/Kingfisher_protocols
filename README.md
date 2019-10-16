@@ -1,5 +1,5 @@
 # Kingfisher_protocols
-Protocols (.bdz files) for extracting RNA and purifying DNA using the Kingfisher robot. These work with our open-source next-generation sequencing protocols: http://grubaughlab.com/open-science/amplicon-sequencing/
+Protocols (.bdz files) for extracting RNA and purifying DNA using the KingFisher Flex magnetic robot (https://www.thermofisher.com/order/catalog/product/5400610). These work with our open-source next-generation sequencing protocols: http://grubaughlab.com/open-science/amplicon-sequencing/
 
 purification.bdz - program used to purify DNA after PCR and library preperation.
 
